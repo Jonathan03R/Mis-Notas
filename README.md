@@ -14,3 +14,13 @@ Aquí tienes una visión general de lo que puedes encontrar en este repositorio:
 
 
 ¡Gracias por visitar mi repositorio y espero que encuentres la información aquí útil e inspiradora para tus propios proyectos!
+
+
+### 🤝🏻 &nbsp;Conectate conmigo
+
+<p align="center">
+<a href="https://jonathan-roque-8768f.firebaseapp.com"><img src="https://img.shields.io/badge/-portafolio Personal-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jonathan-roque-b5bb85277/"><img src="https://img.shields.io/badge/-Jonathan Roque-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jonathanjesusroquegonzales@gmail.com"><img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/shonaroque/"><img src="https://img.shields.io/badge/-@shonaRoque-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/jonathan.roque"><img src="https://img.shields.io/badge/-@Jonathan Roque-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
