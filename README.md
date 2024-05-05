@@ -1,7 +1,3 @@
-<div id="header" align = "center">
-        <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="500" />
-</div>
-
 
 # Documentación de Proyectos
 
