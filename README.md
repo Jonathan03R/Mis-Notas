@@ -1,5 +1,5 @@
 <div id="header" align = "center">
-        <img src="https://hackernoon.com/images/f2px36fy.gif" width="500" />
+        <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="500" />
 </div>
 
 
