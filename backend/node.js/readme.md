@@ -7,6 +7,7 @@ Este proyecto muestra cómo crear un backend básico utilizando Node.js. Sigue l
 1. **Instalación de Node.js:** Si no tienes Node.js instalado en tu sistema, descárgalo e instálalo desde [Node.js website](https://nodejs.org/).
 
 2. **Inicialización del Proyecto:** Crea un nuevo directorio para tu proyecto y abre una terminal en ese directorio. Luego, inicializa un nuevo proyecto Node.js ejecutando el siguiente comando:
+
 `$ npm init `
 3. **Instalación de Dependencias:** Instala las dependencias necesarias para tu backend. Ejecuta el siguiente comando en tu terminal para instalar las dependencias `express`, `mysql`, `dotenv` y `cors`:
 `npm install --save express mysql dotenv cors`
