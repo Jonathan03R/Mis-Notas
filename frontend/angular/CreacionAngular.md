@@ -28,5 +28,5 @@ Esto iniciará tu aplicación en un servidor de desarrollo en http://localhost:4
 
 Si deseas abrir un puerto local y conectarte desde otro dispositivo en la misma red Wi-Fi, puedes hacer uso del siguiente comando:
 
-    ```bash
+```bash
     ng serve --host 0.0.0.0
